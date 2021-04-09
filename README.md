@@ -10,6 +10,8 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 
 ## Screenshots
 
-![Screenshot1](screenshots/screen_1.png)
+![Screenshot1](screen_1.png)
 
-![Screenshot2](screenshots/screen_2.png)
+![Screenshot2](screen_2.png)
+
+![Screenshot3](screen_3.png)
